@@ -8,15 +8,6 @@ Languages I'm developing:
 
      *I'm using Postman and GitBash to check if the responses are working out*
    
-- 👩🏻‍💻 I've already finished: 
-
-    *Calculator on Java*
-    
-    *Calculator on Javascript and front-end on CSS*
-    
-    *Library on C++*
-    
-    *Random League's database where it shows which teams got to the finals(My SQL)*
 
 - ⚡ Interesting fact: 
 
@@ -33,15 +24,6 @@ Meu nome é Amanda e quero aprender um pouco de tudo que tem a ver com programa�
 
     *Estou usando o Postman e o GitBash para verificar se as respostas estão funcionando*
 
-- 👩🏻‍💻 Já terminei:
-
-    *Calculadora em Java*
-
-    *Calculadora em Javascript e front-end CSS*
-
-    *Biblioteca em C ++*
-
-    *Banco de dados de uma liga aleatória mostra quais times chegaram às finais(MySQL)*
 
 - ⚡ Fato interessante:
 
