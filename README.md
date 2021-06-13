@@ -1,30 +1,37 @@
-### Hello! 👋
+#### Hello! 👋 ####
 
-**My name is Amanda** and I want to learn a little bit of everything that is related to programming!
+   **My name is Amanda** and I want to learn a little bit of everything that is related to programming!
 
-Languages I'm developing: 
+  📁 **Technologies I'm developing:**
 
-- 🧠Nowadays, I'm learning how to make servers and APIs using Node.js on VisualStudio;
+         🧠Nowadays, I'm learning how to merge MongoDb and APIs using Node.js on VisualStudio;
 
-     *I'm using Postman and GitBash to check if the responses are working out*
+             *I'm using Postman and GitBash to check out responses*
+     
+         🧠 I like to 'play' using C and Java;
+         🧠 I'm learning test automation
    
 
-- ⚡ Interesting fact: 
+   ⚡ **Interesting fact:**
 
-   ✍🏻 *I would love to do some project related to Prince(the singer)*
+       ✍🏻  I would love to do some project related to Prince(the singer)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Olá! 👋
-Meu nome é Amanda e quero aprender um pouco de tudo que tem a ver com programação!
+#### Olá! 👋 ####
+   **Meu nome é Amanda** e quero aprender um pouco de tudo que tem a ver com programação!
 
-**Linguagens que estou desenvolvendo e agregando conhecimentos:**
+   📁**Tecnologias que estou desenvolvendo e agregando conhecimento:**
 
-- 🧠 Atualmente estou aprendendo a fazer servidores e API'S usando Node.js no VisualStudio;
+         🧠 Atualmente estou aprendendo a usar MongoDb e integração com API'S usando Node.js no VisualStudio;
 
-    *Estou usando o Postman e o GitBash para verificar se as respostas estão funcionando*
+             *Estou usando o Postman e o GitBash para testar respostas*
+    
+         🧠 Brinco um pouco com C e Java;
+
+         🧠 Estou desenvolvendo meus conhecimentos em testes automatizados 
 
 
-- ⚡ Fato interessante:
+   ⚡ **Fato interessante:**
 
-    ✍🏻  *Eu adoraria fazer algum projeto relacionado ao Prince (o cantor)*
+          ✍🏻  Eu adoraria fazer algum projeto relacionado ao Prince (o cantor)
